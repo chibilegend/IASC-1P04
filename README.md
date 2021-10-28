@@ -5,3 +5,7 @@ Welcome to my webste for my Twine Game, created for the course IASC 1P04 at Broc
 ## Playtest
 
 Playtest my game [here]()
+
+## Prototype
+
+Play my prototype [here](prototype/SoulDewValleyPrototype.html)
