@@ -8,4 +8,4 @@ Playtest my game [here](https://chibilegend.github.io/IASC-1P04/prototype/SoulDe
 
 ## Prototype
 
-Play my prototype [here](prototype/SoulDewValleyPrototype)
+Play my prototype [here](prototype/SoulDewValleyPrototype.html)
