@@ -4,7 +4,7 @@ Welcome to my webste for my Twine Game, created for the course IASC 1P04 at Broc
 
 ## Playtest
 
-Playtest my game [here](https://chibilegend.github.io/IASC-1P04/prototype/SoulDewValleyPrototype.html)
+Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
